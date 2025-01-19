@@ -33,4 +33,9 @@
 - Enviroment Variables (Ortam Değişkenleri), kodun içerisinde gömmek istedmiğimiz dışarıdan yönetilebilir olmasını isteidğimiz ve herkesle paylaşmak istemediğimiz hassas bilgileri tutmak için kullandığımuz yöntem.
 
 - Env'de tanımlanan değişkenler sadece projenin çalıştığı işletim sisteminde erişlebilirken. Proje paylaşıldığında erişlemez olur.
+
 # Youtube-Clone
+
+# Ekran-Kaydi
+
+![](youtube-.gif)
